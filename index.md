@@ -11,5 +11,5 @@ Contact me at dtchen@stanford.edu.
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://dtc1995.github.io/redesigned-engine.github.io/Academic_CV_Feb_18.pdf) and ![Image](https://dtc1995.github.io/redesigned-engine.github.io/danielchen.jpg)
+[Link](https://dtc1995.github.io/redesigned-engine.github.io/Academic_CV_Feb_18.pdf) and ![Image](https://dtc1995.github.io/redesigned-engine.github.io/danielchenphd.jpg)
 
