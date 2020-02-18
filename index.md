@@ -5,11 +5,12 @@ I am a third year PhD student in Economics at Stanford Graduate School of Busine
 Contact me at dtchen@stanford.edu
 
 ### Working Papers
+
 1. Market Fragmentation (with Darrell Duffie)
 2. Subsidy Schemes in Double Auctions (with Anthony Zhang)
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](redesigned-engine.github.io/danielchen.jpg)
-```
+[Link](url) and ![Image](redesigned-engine.github.io/Daniel Chen_Sept 2017_01.jpg)
 
+<img src="http://via.placeholder.com/350x400">
