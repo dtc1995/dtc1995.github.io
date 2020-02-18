@@ -4,6 +4,8 @@ I am a third year PhD student in Economics at Stanford Graduate School of Busine
 
 Contact me at dtchen@stanford.edu. 
 
+Here is a link to my [Curriculum Vitae.](https://dtc1995.github.io/redesigned-engine.github.io/Academic_CV_Feb_18.pdf)
+
 ### Working Papers
 
 1. Market Fragmentation (with Darrell Duffie)
@@ -11,5 +13,5 @@ Contact me at dtchen@stanford.edu.
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://dtc1995.github.io/redesigned-engine.github.io/Academic_CV_Feb_18.pdf) and ![Image](https://dtc1995.github.io/redesigned-engine.github.io/danielchenphd.png)
+![Image](https://dtc1995.github.io/redesigned-engine.github.io/danielchenphd.png)
 
