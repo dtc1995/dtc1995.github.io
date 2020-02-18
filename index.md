@@ -2,7 +2,7 @@
 # Daniel Chen
 I am a third year PhD student in Economics at Stanford Graduate School of Business. My primary research fields are microeconomic theory and financial economics. I am interested in problems related to information, moral hazard, the effects of the strategic avoidance of price impact, and the design and function of financial markets. 
 
-Contact me at dtchen@stanford.edu
+Contact me at dtchen@stanford.edu. 
 
 ### Working Papers
 
@@ -13,4 +13,4 @@ Contact me at dtchen@stanford.edu
 
 [Link](url) and ![Image](redesigned-engine.github.io/Daniel Chen_Sept 2017_01.jpg)
 
-<img src="http://via.placeholder.com/350x400">
+<img src="redesigned-engine.github.io/Daniel Chen_Sept 2017_01.jpg">
