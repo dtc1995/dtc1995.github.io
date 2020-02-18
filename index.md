@@ -1,8 +1,6 @@
 ## Daniel Chen
 
-You can use the [editor on GitHub](https://github.com/dtc1995/redesigned-engine.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a third year PhD student in Economics at Stanford Graduate School of Business. 
 
 ### Markdown
 
