@@ -10,6 +10,6 @@ Contact me at dtchen@stanford.edu
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](redesigned-engine.github.io/danielchen.jpg)
 ```
 
