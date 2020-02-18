@@ -7,10 +7,14 @@ Contact me at dtchen@stanford.edu.
 
 Here is a link to my [Curriculum Vitae.](https://dtc1995.github.io/Academic_CV_Feb_18.pdf)
 
+
+
+  ![Image](https://dtc1995.github.io/danielchenphd.png)
+ 
 ### Working Papers
 
 1. Market Fragmentation (with Darrell Duffie)
 2. Subsidy Schemes in Double Auctions (with Anthony Zhang)
 
-![Image](https://dtc1995.github.io/danielchenphd.png)
+
 
