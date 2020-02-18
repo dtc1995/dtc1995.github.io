@@ -11,7 +11,5 @@ Here is a link to my [Curriculum Vitae.](https://dtc1995.github.io/redesigned-en
 1. Market Fragmentation (with Darrell Duffie)
 2. Subsidy Schemes in Double Auctions (with Anthony Zhang)
 
-**Bold** and _Italic_ and `Code` text
-
 ![Image](https://dtc1995.github.io/redesigned-engine.github.io/danielchenphd.png)
 
