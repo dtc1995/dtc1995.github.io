@@ -8,8 +8,8 @@ Contact me at dtchen@stanford.edu. Here is a link to my [Curriculum Vitae.](http
  
 ### Working Papers
 
-1. [Market Fragmentation](https://www.gsb.stanford.edu/faculty-research/working-papers/market-fragmentation) (with Darrell Duffie)
-2. [Subsidy Schemes in Double Auctions](https://anthonyleezhang.github.io/pdfs/ssida.pdf) (with Anthony Zhang)
+1. [Market Fragmentation](https://www.gsb.stanford.edu/faculty-research/working-papers/market-fragmentation) (with [Darrell Duffie](https://www.darrellduffie.com))
+2. [Subsidy Schemes in Double Auctions](https://anthonyleezhang.github.io/pdfs/ssida.pdf) (with [Anthony Zhang](https://anthonyleezhang.github.io))
 
 
 
