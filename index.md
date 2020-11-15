@@ -8,7 +8,7 @@ Contact me at dtchen@stanford.edu. Here is a link to my [Curriculum Vitae.](http
  
 ### Working Papers
 
-1. [Market Fragmentation](https://dtc1995.github.io/ChenDuffieMay2020.pdf) (with [Darrell Duffie](https://www.darrellduffie.com))
+1. [Market Fragmentation](https://dtc1995.github.io/revisionNov15.pdf) (with [Darrell Duffie](https://www.darrellduffie.com))
 2. [Efficiency and Revenue in Linear-Quadratic Double Auctions](https://dtc1995.github.io/ERLQupdated.pdf) (with [Anthony Zhang](https://anthonyleezhang.github.io))
 
 
