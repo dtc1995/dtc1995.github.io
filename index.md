@@ -1,6 +1,6 @@
 # Daniel Chen
 ### About Me
-This site is currently under construction---please come back soon! 
+I am a fifth year PhD student in Economics at the Stanford Graduate School of Business.
 
 
 
