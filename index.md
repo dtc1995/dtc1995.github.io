@@ -2,7 +2,7 @@
 ### About Me
 I am a fifth year PhD student in Economics at the [Stanford Graduate School of Business](https://www.gsb.stanford.edu/programs/phd/academic-experience/students/daniel-chen). My primary research fields are microeconomic theory and finance. I am interested in problems related to market structure, dynamic games, mechanism design, and the strategic avoidance of price impact. 
 
-Contact me at dtchen@stanford.edu. Here is a link to my [CV](https://dtc1995.github.io/CVMar2022.pdf).
+Contact me at dtchen@stanford.edu. Here is a link to my [Curriculum Vitae](https://dtc1995.github.io/CVMar2022.pdf).
 
 
 ![Image](https://dtc1995.github.io/danielchenpic.png)
