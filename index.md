@@ -8,7 +8,7 @@ Contact me at dtchen@stanford.edu. Here is a link to my [Curriculum Vitae](https
 ![Image](https://dtc1995.github.io/danielchenpic.png)
 
 ### Research Papers
-1. [Optimal Design of a Financial Exchange](https://dtc1995.github.io/MainJun17V2.pdf) 
+1. [Optimal Design of a Financial Exchange](https://dtc1995.github.io/MainJun17v2.pdf) 
 1. [The Market for Attention](https://drive.google.com/file/d/1pgOcnkTeMeXF14Fo2zU1O3j5iJUU8LRS/view?usp=sharing)
 2. [Market Fragmentation](https://www.gsb.stanford.edu/sites/default/files/paper-or-publication/aer.marketfrag.pdf) (with [Darrell Duffie](https://www.darrellduffie.com)). *American Economic Review*. July 2021. [Online Appendix](https://dtc1995.github.io/ChenDuffieOnlineAppendixFeb2021.pdf)
 
