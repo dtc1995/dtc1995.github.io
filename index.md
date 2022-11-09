@@ -16,4 +16,4 @@ Contact me at dtchen@stanford.edu. Here is a link to my [Curriculum Vitae](https
 1. [The Market for Attention](https://drive.google.com/file/d/1pgOcnkTeMeXF14Fo2zU1O3j5iJUU8LRS/view?usp=sharing) (Job Market Paper)
 2.  [Optimal Design of a Financial Exchange](https://drive.google.com/file/d/12KpGxa75Cymr4NHG5jI30metR2z0X1dF/view?usp=share_link) 
 3. [Market Fragmentation](https://www.gsb.stanford.edu/sites/default/files/paper-or-publication/aer.marketfrag.pdf) (with [Darrell Duffie](https://www.darrellduffie.com)). *American Economic Review*. July 2021. [Online Appendix](https://dtc1995.github.io/ChenDuffieOnlineAppendixFeb2021.pdf)
-
+4. Information Acquisition and Time-Risk Preference (with Weijie Zhong)
