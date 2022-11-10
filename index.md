@@ -20,19 +20,19 @@ Contact me at dtchen@stanford.edu. Here is a link to my [Curriculum Vitae](https
     </blockquote>
     </details>
 
-+  [Optimal Design of a Financial Exchange](https://drive.google.com/file/d/12KpGxa75Cymr4NHG5jI30metR2z0X1dF/view?usp=share_link) <br style="mso-data-placement:same-cell;" />
++  [Optimal Design of a Financial Exchange](https://drive.google.com/file/d/12KpGxa75Cymr4NHG5jI30metR2z0X1dF/view?usp=share_link) 
     <details><summary style="font-size:85%;"><b>Abstract</b></summary>
     <blockquote style="font-size:85%;"> We present an approach for predicting roll-call votes in the U.S. Congress, using bill text word embedding as well as bill and Congress member characteristics as inputs. Various prediction models are implemented, tested and finally combined using ensemble stacking. Our methods yield higher accuracy than existing methods, especially for newly elected members of Congress.
     </blockquote>
     </details>
 
-+  [Market Fragmentation](https://www.gsb.stanford.edu/sites/default/files/paper-or-publication/aer.marketfrag.pdf) (with [Darrell Duffie](https://www.darrellduffie.com)). *American Economic Review*. July 2021. [Online Appendix](https://dtc1995.github.io/ChenDuffieOnlineAppendixFeb2021.pdf)  <br style="mso-data-placement:same-cell;" /> 
++  [Market Fragmentation](https://www.gsb.stanford.edu/sites/default/files/paper-or-publication/aer.marketfrag.pdf) (with [Darrell Duffie](https://www.darrellduffie.com)). *American Economic Review*. July 2021. [Online Appendix](https://dtc1995.github.io/ChenDuffieOnlineAppendixFeb2021.pdf)  
     <details><summary style="font-size:85%;"><b>Abstract</b></summary>
     <blockquote style="font-size:85%;"> We model a simple market setting in which fragmentation of trade of the same asset across multiple exchanges improves allocative efficiency. Fragmentation reduces the inhibiting effect of price-impact avoidance on order submission. Although fragmentation reduces market depth on each exchange, it also isolates cross-exchange price impacts, leading to more aggressive overall order submission and better rebalancing of unwanted positions across traders. Fragmentation also has implications for the extent to which prices reveal traders’ private information. While a given exchange price is less informative in more fragmented markets, all exchange prices taken together are more informative.
     </blockquote>
     </details>
 
-+  Information Acquisition and Time-Risk Preference (with [Weijie Zhong](https://www.gsb.stanford.edu/faculty-research/faculty/weijie-zhong)) <br style="mso-data-placement:same-cell;" /> 
++  Information Acquisition and Time-Risk Preference (with [Weijie Zhong](https://www.gsb.stanford.edu/faculty-research/faculty/weijie-zhong))
     <details><summary style="font-size:85%;"><b>Abstract</b></summary>
     <blockquote style="font-size:85%;"> [Preliminary draft available upon request] An agent aquires information dynamically until her posterior belief about an unknown binary state reaches either an upper or a lower threshold. The agent can choose any signal process subject to a constraint on the rate of "uncertainty reduction." We show that learning strategies can be ordered by time risk---the dispersiveness of the distribution of time that a threshold is reached. We construct a strategy that maximizes time risk and one that minimizes time risk. Under the time-risk maximizing strategy, posterior beliefs evolve according to a Poisson process. The posterior belief either jumps to the threshold that is closer in Bregman divergence or drifts towards the other threshold. Under the time-risk minimizing strategy, the posterior belief reaches a threshold at a deterministic time.
     </blockquote>
