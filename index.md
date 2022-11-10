@@ -19,7 +19,7 @@ Contact me at dtchen@stanford.edu. Here is a link to my [Curriculum Vitae](https
     </blockquote>
     </details>
     
-2.  [Optimal Design of a Financial Exchange](https://drive.google.com/file/d/12KpGxa75Cymr4NHG5jI30metR2z0X1dF/view?usp=share_link)
+2. [Optimal Design of a Financial Exchange](https://drive.google.com/file/d/12KpGxa75Cymr4NHG5jI30metR2z0X1dF/view?usp=share_link)
   <details><summary style="font-size:85%;"><b>Abstract</b></summary>
     <blockquote style="font-size:85%;"> We consider the design of a market for a single asset where a finite number of risk averse traders may trade to share risk from asset endowments. We derive the direct mechanisms that maximize a linear combination of expected revenue and allocative efficiency. We find that the first best allocation is Bayesian-Nash implementable with ex-ante budget balance if and only if the expectations of traders’ endowments are proportional to their risk capacities. We show that an optimal direct mechanism has an indirect implementation by a double auction with side payments. Thus there may be cause for regulation of side payments and potential to use them as effective policy tools.
     </blockquote>
