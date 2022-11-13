@@ -7,7 +7,7 @@ I am a PhD student in Economics at the [Stanford Graduate School of Business](ht
 
 My primary research fields are microeconomic theory and finance. I am interested in problems related to market structure, dynamic games, mechanism design, and the strategic avoidance of price impact. 
 
-Contact me at dtchen@stanford.edu. Here is a link to my [Curriculum Vitae](https://www.gsb.stanford.edu/sites/default/files/phd-cv/CVNov9_0.pdf).
+Contact me at dtchen@stanford.edu. Here is a link to my [Curriculum Vitae](https://www.gsb.stanford.edu/sites/default/files/phd-cv/CVNOV12.pdf).
 
 
 ![Image](https://dtc1995.github.io/danielchenpic.png)
