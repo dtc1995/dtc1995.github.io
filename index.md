@@ -7,7 +7,7 @@ I will join the Department of Economics and the Bendheim Center for Finance at P
 
 My primary research fields are theory and finance. I am interested in problems related to market structure, dynamic games, mechanism design, and the strategic avoidance of price impact. 
 
-Contact me at dtchen@stanford.edu. Here is a link to my [Curriculum Vitae](https://www.gsb.stanford.edu/sites/default/files/phd-cv/CVNOV12.pdf).
+My email is dtchen@stanford.edu. Here is a link to my [Curriculum Vitae](https://www.gsb.stanford.edu/sites/default/files/phd-cv/CVNOV12.pdf).
 
 
 ![Image](https://dtc1995.github.io/danielchenpic.png)
