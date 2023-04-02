@@ -3,7 +3,8 @@
 I am a PhD student in Economics at the [Stanford Graduate School of Business](https://www.gsb.stanford.edu/programs/phd/academic-experience/students/daniel-chen). 
 
 
-In July 2023, I will join the Department of Economics and the Bendheim Center for Finance at Princeton University as a Postdoctoral Research Associate before starting as an Assistant Professor the following year. 
+In July 2023, I will join the Department of Economics and the Bendheim Center for Finance at Princeton University  
+as a Postdoctoral Research Associate before starting as an Assistant Professor the following year. 
 
 My primary research fields are theory and finance. 
 
