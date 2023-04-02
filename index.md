@@ -22,7 +22,7 @@ My email is dtchen@stanford.edu. Here is a link to my [Curriculum Vitae](https:/
    <!--- <details><summary style="font-size:95%;"><b>Abstract</b></summary>
     <blockquote style="font-size:95%;">  <span style="color:black"> We consider the design of a market for a single asset where a finite number of risk averse traders may trade to share risk from asset endowments. We derive the direct mechanisms that maximize a linear combination of expected revenue and allocative efficiency. We find that the first best allocation is Bayesian-Nash implementable with ex-ante budget balance if and only if the expectations of traders’ endowments are proportional to their risk capacities. We show that an optimal direct mechanism has an indirect implementation by a double auction with side payments. Thus there may be cause for regulation of side payments and potential to use them as effective policy tools.</span>
     </blockquote>
-    </details>
+    </details>--->
 
 3.  [Market Fragmentation](https://www.gsb.stanford.edu/sites/default/files/paper-or-publication/aer.marketfrag.pdf) (with [Darrell Duffie](https://www.darrellduffie.com)). *American Economic Review*. July 2021. [Online Appendix](https://dtc1995.github.io/ChenDuffieOnlineAppendixFeb2021.pdf)  
    <!--- <details><summary style="font-size:95%;"><b>Abstract</b></summary>
