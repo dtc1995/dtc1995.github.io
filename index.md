@@ -3,9 +3,9 @@
 I am a PhD student in Economics at the [Stanford Graduate School of Business](https://www.gsb.stanford.edu/programs/phd/academic-experience/students/daniel-chen). 
 
 
-I will start as an Assistant Professor in the Department of Economics and Bendheim Center for Finance at Princeton University in July, 2024. 
+I will join the Department of Economics and the Bendheim Center for Finance at Princeton University as a Postdoctoral Research Associate in July, 2023 before starting as an Assistant Professor the following year. 
 
-My primary research fields are microeconomic theory and finance. I am interested in problems related to market structure, dynamic games, mechanism design, and the strategic avoidance of price impact. 
+My primary research fields are theory and finance. I am interested in problems related to market structure, dynamic games, mechanism design, and the strategic avoidance of price impact. 
 
 Contact me at dtchen@stanford.edu. Here is a link to my [Curriculum Vitae](https://www.gsb.stanford.edu/sites/default/files/phd-cv/CVNOV12.pdf).
 
