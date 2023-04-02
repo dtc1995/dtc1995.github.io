@@ -5,7 +5,7 @@ I am a PhD student in Economics at the [Stanford Graduate School of Business](ht
 
 In July 2023, I will join the Department of Economics and the Bendheim Center for Finance at Princeton University as a Postdoctoral Research Associate before starting as an Assistant Professor the following year. 
 
-My primary research fields are theory and finance. I am interested in problems related to market structure, dynamic games, mechanism design, and the strategic avoidance of price impact. 
+My primary research fields are theory and finance. 
 
 My email is dtchen@stanford.edu. Here is a link to my [Curriculum Vitae](https://www.gsb.stanford.edu/sites/default/files/phd-cv/CVNOV12.pdf).
 
