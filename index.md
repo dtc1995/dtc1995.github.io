@@ -14,7 +14,7 @@ My email is dtchen@stanford.edu. Here is a link to my [Curriculum Vitae](https:/
 ![Image](https://dtc1995.github.io/danielchenpic.png)
 
 ### Research Papers
-1. [The Market for Attention](https://drive.google.com/file/d/1pgOcnkTeMeXF14Fo2zU1O3j5iJUU8LRS/view?usp=sharing) (Job Market Paper) 
+1. [The Market for Attention](https://drive.google.com/file/d/1pgOcnkTeMeXF14Fo2zU1O3j5iJUU8LRS/view?usp=sharing) (new draft!) 
 
 2.  [Optimal Design of a Financial Exchange](https://drive.google.com/file/d/12KpGxa75Cymr4NHG5jI30metR2z0X1dF/view?usp=share_link) 
   
