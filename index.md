@@ -8,7 +8,7 @@ as a Postdoctoral Research Associate before starting as an Assistant Professor t
 
 My primary research fields are theory and finance. 
 
-My email is dtchen@stanford.edu. Here is a link to my [Curriculum Vitae](https://www.gsb.stanford.edu/sites/default/files/phd-cv/CVNOV12.pdf).
+My email is dtchen@stanford.edu. Here is a link to my [Curriculum Vitae](https://www.gsb.stanford.edu/sites/default/files/phd-cv/CVJune.pdf).
 
 
 ![Image](https://dtc1995.github.io/danielchenpic.png)
