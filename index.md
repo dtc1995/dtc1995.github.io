@@ -1,17 +1,18 @@
 # Daniel Chen
 ### About Me
-I am a PhD student in Economics at the [Stanford Graduate School of Business](https://www.gsb.stanford.edu/programs/phd/academic-experience/students/daniel-chen). 
+
+I am a Pyewacket Fellow in the [Bendheim Center for Finance](https://bcf.princeton.edu) at the [Department of Economics   
+at Princeton University](https://economics.princeton.edu). 
+In July 2024, I will begin as an Assistant Professor there. 
 
 
-In July 2023, I will join the Department of Economics and the Bendheim Center for Finance at Princeton University  
-as a Postdoctoral Research Associate before starting as an Assistant Professor the following year. 
-
-My primary research fields are theory and finance. 
-
-My email is dtchen@stanford.edu. Here is a link to my [Curriculum Vitae](CVJune13.pdf).
+My email is dtchen@stanford.edu. Here is a link to my [CV](CVJune13.pdf).
 
 
 ![Image](https://dtc1995.github.io/danielchenpic.png)
+
+I am an economic theorist with interests especially in finance, market structure,  
+and market design. 
 
 ### Research Papers
 1. [The Market for Attention](https://drive.google.com/file/d/1pgOcnkTeMeXF14Fo2zU1O3j5iJUU8LRS/view?usp=sharing) (new draft!) 
