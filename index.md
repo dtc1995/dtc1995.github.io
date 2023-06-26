@@ -12,7 +12,7 @@ My email is dtchen@princeton.edu. Here is a link to my [CV](CVJun22.pdf).
 ![Image](https://dtc1995.github.io/danielchenpic.png)
 
 I am an economic theorist with interests especially in finance, market structure,  
-and market design. 
+and mechanism design. 
 
 ### Research Papers
 1. [The Market for Attention](https://drive.google.com/file/d/1pgOcnkTeMeXF14Fo2zU1O3j5iJUU8LRS/view?usp=sharing) (new draft!) 
