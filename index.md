@@ -15,7 +15,7 @@ I am an economic theorist with interests especially in finance, market structure
 and mechanism design. 
 
 ### Research Papers
-1. [The Market for Attention](https://drive.google.com/file/d/1pgOcnkTeMeXF14Fo2zU1O3j5iJUU8LRS/view?usp=sharing) 
+1. [The Market for Attention](https://drive.google.com/file/d/1YoCzMuIaR2naM2aVnnUn0tgTJziF_NZq/view?usp=share_link) 
 
 2.  [Optimal Design of a Financial Exchange](https://drive.google.com/file/d/12KpGxa75Cymr4NHG5jI30metR2z0X1dF/view?usp=share_link) 
   
