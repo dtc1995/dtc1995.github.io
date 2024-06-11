@@ -23,7 +23,7 @@ and mechanism design.
 3.  [Market Fragmentation](https://www.gsb.stanford.edu/sites/default/files/paper-or-publication/aer.marketfrag.pdf) (with [Darrell Duffie](https://www.darrellduffie.com)). *American Economic Review*. July 2021. [Online Appendix](https://dtc1995.github.io/ChenDuffieOnlineAppendixFeb2021.pdf)  
  
 
-4.  [Information Acquisition and Time-Risk Preference](https://dtc1995.github.io/infotimeriskApr.pdf) (with [Weijie Zhong](https://www.gsb.stanford.edu/faculty-research/faculty/weijie-zhong))
+4.  [Information Acquisition and Time-Risk Preference](https://dtc1995.github.io/infotimeriskApr.pdf) (with [Weijie Zhong](https://www.gsb.stanford.edu/faculty-research/faculty/weijie-zhong)). Conditionally Accepted at *American Economic Review: Insights*
  
 
 
