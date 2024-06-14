@@ -11,7 +11,7 @@ My email is dtchen@princeton.edu. Here is a link to my [CV](CVNov2023.pdf).
 
 ![Image](https://dtc1995.github.io/danielchenpic.png)
 
-I am an economic theorist with interests especially in finance, market structure,
+I am an economic theorist with interests in finance, market structure,
 mechanism design, search, and learning.
 
 ### Research Papers
