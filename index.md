@@ -6,7 +6,7 @@ at Princeton University](https://economics.princeton.edu).
 In July 2024, I will begin as an Assistant Professor there. 
 
 
-My email is dtchen@princeton.edu. Here is a link to my [CV](CVNov2023.pdf).
+My email is dtchen@princeton.edu. Here is a link to my [CV](CVJun.pdf).
 
 
 ![Image](https://dtc1995.github.io/danielchenpic.png)
