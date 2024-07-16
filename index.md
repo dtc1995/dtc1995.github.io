@@ -1,9 +1,9 @@
 # Daniel Chen
 ### About Me
 
-I am a Pyewacket Fellow in the [Bendheim Center for Finance](https://bcf.princeton.edu) at the [Department of Economics   
+I am an assistant professor in the [Bendheim Center for Finance](https://bcf.princeton.edu) at the [Department of Economics   
 at Princeton University](https://economics.princeton.edu). 
-In July 2024, I will begin as an Assistant Professor there. 
+
 
 
 My email is dtchen@princeton.edu. Here is a link to my [CV](CVJun.pdf).
