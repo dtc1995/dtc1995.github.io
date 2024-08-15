@@ -14,7 +14,7 @@ My email is dtchen@princeton.edu. Here is a link to my [CV](CVJun.pdf).
 My research is in theory and finance.
 
 ### Research Papers
-1. [The Market for Attention](https://drive.google.com/file/d/1YoCzMuIaR2naM2aVnnUn0tgTJziF_NZq/view?usp=share_link) 
+1. [The Market for Attention](https://dtc1995.github.io/RevisionMay.pdf) 
 
 2.  [Optimal Design of a Financial Exchange](https://drive.google.com/file/d/12KpGxa75Cymr4NHG5jI30metR2z0X1dF/view?usp=share_link) 
 
