@@ -18,7 +18,7 @@ My research is in theory and finance.
    [[Video](https://www.youtube.com/watch?v=Rl1nHrpZEIA&t=2651s) (Sep 2023)]
    
 
-2.  [Optimal Exchange Design](https://dtc1995.github.io/OEDSeptDraft.pdf)
+2.  [Optimal Exchange Design](https://dtc1995.github.io/OEDOct.pdf)
 
 3.  [Information Acquisition and Time-Risk Preference](https://dtc1995.github.io/infotimeriskrevisionSep.pdf) (with [Weijie Zhong](https://wjzhong.com)). Accepted at *American Economic Review: Insights*
  
