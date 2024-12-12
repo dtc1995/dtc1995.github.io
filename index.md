@@ -18,10 +18,11 @@ My research is in theory and finance.
    [[Video](https://www.youtube.com/watch?v=Rl1nHrpZEIA&t=2651s) (Sep 2023)]
    
 
-2.  [Optimal Exchange Design](https://dtc1995.github.io/OEDOct.pdf)
+2.  [Optimal Exchange Design](https://dtc1995.github.io/OEDOct.pdf)\
+   [[Video](https://www.youtube.com/watch?v=ovJwCV2iux0&t=3157s) (Dec 2024)]
 
-3.  [Information Acquisition and Time-Risk Preference](https://dtc1995.github.io/infotimeriskrevisionSep.pdf) (with [Weijie Zhong](https://wjzhong.com)). Accepted at *American Economic Review: Insights*
+4.  [Information Acquisition and Time-Risk Preference](https://dtc1995.github.io/infotimeriskrevisionSep.pdf) (with [Weijie Zhong](https://wjzhong.com)). Accepted at *American Economic Review: Insights*
  
-4.  [Market Fragmentation](https://www.gsb.stanford.edu/sites/default/files/paper-or-publication/aer.marketfrag.pdf) (with [Darrell Duffie](https://www.darrellduffie.com)). *American Economic Review*. July 2021. [Online Appendix](https://dtc1995.github.io/ChenDuffieOnlineAppendixFeb2021.pdf)  
+5.  [Market Fragmentation](https://www.gsb.stanford.edu/sites/default/files/paper-or-publication/aer.marketfrag.pdf) (with [Darrell Duffie](https://www.darrellduffie.com)). *American Economic Review*. July 2021. [Online Appendix](https://dtc1995.github.io/ChenDuffieOnlineAppendixFeb2021.pdf)  
 
 
