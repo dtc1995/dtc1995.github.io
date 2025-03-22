@@ -6,7 +6,7 @@ at Princeton University](https://economics.princeton.edu).
 
 
 
-My email is dtchen@princeton.edu. Here is my [CV](CVAugust.pdf).
+My email is dtchen@princeton.edu. Here is my [CV](CVmar.pdf).
 
 
 ![Image](https://dtc1995.github.io/danielchenpic.png)
