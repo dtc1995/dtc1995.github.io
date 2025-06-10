@@ -21,7 +21,7 @@ My research is in theory and finance.
 2.  [Optimal Exchange Design](https://dtc1995.github.io/OEDOct.pdf)\
    [[Video](https://www.youtube.com/watch?v=ovJwCV2iux0&t=3157s) (Dec 2024)]
 
-4.  [Information Acquisition and Time-Risk Preference](https://dtc1995.github.io/chen-zhong-2025-information-acquisition-and-time-risk-preference.pdf) (with [Weijie Zhong](https://wjzhong.com)). Accepted at *American Economic Review: Insights*
+4.  [Information Acquisition and Time-Risk Preference](https://dtc1995.github.io/chen-zhong-2025-information-acquisition-and-time-risk-preference.pdf) (with [Weijie Zhong](https://wjzhong.com)). *American Economic Review: Insights*. June 2025
  
 5.  [Market Fragmentation](https://www.gsb.stanford.edu/sites/default/files/paper-or-publication/aer.marketfrag.pdf) (with [Darrell Duffie](https://www.darrellduffie.com)). *American Economic Review*. July 2021. [Online Appendix](https://dtc1995.github.io/ChenDuffieOnlineAppendixFeb2021.pdf)  
 
