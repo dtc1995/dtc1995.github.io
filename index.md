@@ -14,11 +14,11 @@ My email is dtchen@princeton.edu. Here is my [CV](CVmar.pdf).
 My research is in theory and finance.
 
 ### Research Papers
-1. [The Market for Attention](https://dtc1995.github.io/RevisionMay2024.pdf). Revise and Resubmit at *American Economic Review*\
+1. [The Market for Attention](https://dtc1995.github.io/TheMarketForAttentionMay2024.pdf). Revise and Resubmit at *American Economic Review*\
    [[Video](https://www.youtube.com/watch?v=Rl1nHrpZEIA&t=2651s) (Sep 2023)]
    
 
-2.  [Optimal Exchange Design](https://dtc1995.github.io/OEDOct.pdf)\
+3.  [Optimal Exchange Design](https://dtc1995.github.io/OEDOct.pdf)\
    [[Video](https://www.youtube.com/watch?v=ovJwCV2iux0&t=3157s) (Dec 2024)]
 
 4.  [Information Acquisition and Time-Risk Preference](https://dtc1995.github.io/chen-zhong-2025-information-acquisition-and-time-risk-preference.pdf) (with [Weijie Zhong](https://wjzhong.com)). *American Economic Review: Insights*. June 2025
