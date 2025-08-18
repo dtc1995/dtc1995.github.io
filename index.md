@@ -15,14 +15,14 @@ My research is in theory and finance.
 
 ### Research Papers
 1. [The Market for Attention](https://dtc1995.github.io/attention.html). Revise and Resubmit at *American Economic Review*\
-   [[Video](https://www.youtube.com/watch?v=Rl1nHrpZEIA&t=2651s) (Sep 2023)][[2023 FTG Best Job Market Paper Prize](https://www.financetheory.org)]
+   [Video](...) (Sep 2023) • _2023 FTG Best Job Market Paper Prize_
    
 
-3.  [Optimal Exchange Design](https://dtc1995.github.io/OEDOct.pdf)\
-   [[Video](https://www.youtube.com/watch?v=ovJwCV2iux0&t=3157s) (Dec 2024)][[2025 WRDS-TME Best Paper Award](https://microstructure.exchange)]
+2.  [Optimal Exchange Design](https://dtc1995.github.io/OEDOct.pdf)\
+   [[Video](https://www.youtube.com/watch?v=ovJwCV2iux0&t=3157s) (Dec 2024)]• _2025 WRDS-TME Best Paper Award_
 
-4.  [Information Acquisition and Time-Risk Preference](https://dtc1995.github.io/chen-zhong-2025-information-acquisition-and-time-risk-preference.pdf) (with [Weijie Zhong](https://wjzhong.com)). *American Economic Review: Insights*. June 2025
+3.  [Information Acquisition and Time-Risk Preference](https://dtc1995.github.io/chen-zhong-2025-information-acquisition-and-time-risk-preference.pdf) (with [Weijie Zhong](https://wjzhong.com)). *American Economic Review: Insights*. June 2025
  
-5.  [Market Fragmentation](https://www.gsb.stanford.edu/sites/default/files/paper-or-publication/aer.marketfrag.pdf) (with [Darrell Duffie](https://www.darrellduffie.com)). *American Economic Review*. July 2021. [Online Appendix](https://dtc1995.github.io/ChenDuffieOnlineAppendixFeb2021.pdf)  
+4.  [Market Fragmentation](https://www.gsb.stanford.edu/sites/default/files/paper-or-publication/aer.marketfrag.pdf) (with [Darrell Duffie](https://www.darrellduffie.com)). *American Economic Review*. July 2021. [Online Appendix](https://dtc1995.github.io/ChenDuffieOnlineAppendixFeb2021.pdf)  
 
 
