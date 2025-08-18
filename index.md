@@ -19,7 +19,7 @@ My research is in theory and finance.
    
 
 2.  [Optimal Exchange Design](https://dtc1995.github.io/OEDOct.pdf)\
-   [[Video](https://www.youtube.com/watch?v=ovJwCV2iux0&t=3157s) (Dec 2024)]• _2025 WRDS-TME Best Paper Award_
+   [[Video](https://www.youtube.com/watch?v=ovJwCV2iux0&t=3157s) (Dec 2024)] • _2025 WRDS-TME Best Paper Award_
 
 3.  [Information Acquisition and Time-Risk Preference](https://dtc1995.github.io/chen-zhong-2025-information-acquisition-and-time-risk-preference.pdf) (with [Weijie Zhong](https://wjzhong.com)). *American Economic Review: Insights*. June 2025
  
