@@ -15,7 +15,7 @@ My research is in theory and finance.
 
 ### Research Papers
 1. [The Market for Attention](https://dtc1995.github.io/attention.html). Revise and Resubmit at *American Economic Review*\
-   [[Video](https://www.youtube.com/watch?v=Rl1nHrpZEIA)] (Sep 2023) • _2023 FTG Best Job Market Paper Prize_
+   [[Video](https://www.youtube.com/watch?v=Rl1nHrpZEIA) (Sep 2023)] • _2023 FTG Best Job Market Paper Prize_
    
 
 2.  [Optimal Exchange Design](https://dtc1995.github.io/OEDOct.pdf)\
