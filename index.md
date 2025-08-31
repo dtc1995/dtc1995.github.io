@@ -14,7 +14,7 @@ My email is dtchen@princeton.edu. Here is my [CV](CVAug2025.pdf).
 My research is in theory and finance.
 
 ### Research Papers
-1. [The Market for Attention](https://dtc1995.github.io/attention.html). Revise and Resubmit at *American Economic Review*\
+1. [A Model of the Attention Economy](https://dtc1995.github.io/attention.html). Revise and Resubmit at *American Economic Review*\
  [[Video](https://www.youtube.com/watch?v=Rl1nHrpZEIA) (Sep 2023)]  <span class="award">• FTG Best Job Market Paper Prize (2023)</span>
    
 
