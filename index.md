@@ -18,7 +18,7 @@ My research is in theory and finance.
  [[Video](https://www.youtube.com/watch?v=Rl1nHrpZEIA) (Sep 2023)]  <span class="award">• FTG Best Job Market Paper Prize (2023)</span>
    
 
-2.  [Optimal Exchange Design](https://dtc1995.github.io/OEDOct.pdf)\
+2.  [Optimal Exchange Design](https://dtc1995.github.io/OEDrevision.pdf)\
  [[Video](https://www.youtube.com/watch?v=ovJwCV2iux0&t=3157s) (Dec 2024)] <span class="award">• WRDS-TME Best Paper Award (2025) </span>  
 
 3.  [Information Acquisition and Time-Risk Preference](https://dtc1995.github.io/chen-zhong-2025-information-acquisition-and-time-risk-preference.pdf) (with [Weijie Zhong](https://wjzhong.com)). *American Economic Review: Insights*. June 2025
