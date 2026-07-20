@@ -9,7 +9,7 @@ at Princeton University](https://economics.princeton.edu).
 My email is dtchen@princeton.edu. Here is my [CV](CVAug2025.pdf).
 
 
-![Image](https://dtc1995.github.io/danielchenpic.png)
+![Image](https://dtc1995.github.io/headshot_square.jpg)
 
 My research is in theory and finance.
 
