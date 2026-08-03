@@ -2,7 +2,9 @@
 ### About Me
 
 I am an assistant professor in the [Bendheim Center for Finance](https://bcf.princeton.edu) at the [Department of Economics   
-at Princeton University](https://economics.princeton.edu). 
+at Princeton University](https://economics.princeton.edu).
+
+During the 2026–27 academic year, I am the Wesley Clair Mitchell Visiting Assistant Professor at [Columbia University](https://econ.columbia.edu).
 
 
 
