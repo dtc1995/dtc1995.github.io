@@ -4,8 +4,7 @@
 I am an assistant professor in the [Bendheim Center for Finance](https://bcf.princeton.edu) at the [Department of Economics   
 at Princeton University](https://economics.princeton.edu).
 
-During the 2026–27 academic year, I am the Wesley Clair Mitchell Visiting Assistant Professor at [Columbia University](https://econ.columbia.edu).
-
+During the 2026–27 academic year, I am the [Wesley Clair Mitchell Visiting Assistant Professor](https://econ.columbia.edu/faculty/visiting-faculty/) at Columbia University.
 
 
 My email is dtchen@princeton.edu. Here is my [CV](CVAug2025.pdf).
