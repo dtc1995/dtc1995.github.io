@@ -14,15 +14,18 @@ My email is dtchen@princeton.edu. Here is my [CV](CVAug2025.pdf).
 My research is in theory and finance.
 
 ### Research Papers
-1. [A Model of the Attention Economy](https://dtc1995.github.io/attention.html). Forthcoming, *American Economic Review*\
+
+1. [The Volatility of Information Rents in Dynamic Mechanism Design](https://dtc1995.github.io/VDMD.pdf)
+   
+2. [A Model of the Attention Economy](https://dtc1995.github.io/attention.html). Forthcoming, *American Economic Review*\
 [video](https://www.youtube.com/watch?v=Rl1nHrpZEIA)  <span class="award">• FTG Best Job Market Paper Prize (2023)</span>
    
 
-2.  [Optimal Exchange Design](https://dtc1995.github.io/OEDrevision.pdf)\
+3.  [Optimal Exchange Design](https://dtc1995.github.io/OEDrevision.pdf)\
     [video](https://www.youtube.com/watch?v=ovJwCV2iux0&t=3157s) <span class="award">• WRDS-TME Best Paper Award (2025) </span>  
 
-3.  [Information Acquisition and Time-Risk Preference](https://dtc1995.github.io/chen-zhong-2025-information-acquisition-and-time-risk-preference.pdf) (with [Weijie Zhong](https://wjzhong.com)). *American Economic Review: Insights*. June 2025
+4.  [Information Acquisition and Time-Risk Preference](https://dtc1995.github.io/chen-zhong-2025-information-acquisition-and-time-risk-preference.pdf) (with [Weijie Zhong](https://wjzhong.com)). *American Economic Review: Insights*. June 2025
  
-4.  [Market Fragmentation](https://www.gsb.stanford.edu/sites/default/files/paper-or-publication/aer.marketfrag.pdf) (with [Darrell Duffie](https://www.darrellduffie.com)). *American Economic Review*. July 2021. [Online Appendix](https://dtc1995.github.io/ChenDuffieOnlineAppendixFeb2021.pdf)  
+5.  [Market Fragmentation](https://www.gsb.stanford.edu/sites/default/files/paper-or-publication/aer.marketfrag.pdf) (with [Darrell Duffie](https://www.darrellduffie.com)). *American Economic Review*. July 2021. [Online Appendix](https://dtc1995.github.io/ChenDuffieOnlineAppendixFeb2021.pdf)  
 
 
