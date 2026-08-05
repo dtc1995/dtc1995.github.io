@@ -6,7 +6,7 @@ at Princeton University](https://economics.princeton.edu).
 
 During the 2026–27 academic year, I am the [Wesley Clair Mitchell Visiting Assistant Professor](https://econ.columbia.edu/faculty/visiting-faculty/) at [Columbia University](https://econ.columbia.edu).
 
-My email is dtchen@princeton.edu. Here is my [CV](CVAug2025.pdf).
+My email is dtchen@princeton.edu. Here is my [CV](CVJuly2026.pdf).
 
 
 <img src="https://dtc1995.github.io/headshot_square.jpg" width="225" alt="Headshot">
