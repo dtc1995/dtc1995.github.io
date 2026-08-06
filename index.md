@@ -27,5 +27,5 @@ My research is in theory and finance.
 4.  [Information Acquisition and Time-Risk Preference](https://dtc1995.github.io/chen-zhong-2025-information-acquisition-and-time-risk-preference.pdf) (with [Weijie Zhong](https://wjzhong.com)). *American Economic Review: Insights*. June 2025
  
 5.  [Market Fragmentation](https://www.gsb.stanford.edu/sites/default/files/paper-or-publication/aer.marketfrag.pdf) (with [Darrell Duffie](https://www.darrellduffie.com)). *American Economic Review*. July 2021. [Online Appendix](https://dtc1995.github.io/ChenDuffieOnlineAppendixFeb2021.pdf)  
-
+{: reversed="reversed"}
 
