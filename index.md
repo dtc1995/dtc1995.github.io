@@ -15,7 +15,7 @@ My research is in theory and finance.
 
 ### Research Papers
 
-1. [The Volatility of Information Rents in Dynamic Mechanism Design](https://dtc1995.github.io/VDMD.pdf)
+1. [The Volatility of Marginal Information Rents in Dynamic Mechanism Design](https://dtc1995.github.io/VDMD_Sep.pdf)
    
 2. [A Model of the Attention Economy](https://dtc1995.github.io/attention.html). Forthcoming, *American Economic Review*\
 [video](https://www.youtube.com/watch?v=Rl1nHrpZEIA)  <span class="award">• FTG Best Job Market Paper Prize (2023)</span>
