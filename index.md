@@ -18,7 +18,7 @@ My research is in theory and finance.
 1. [The Volatility of Marginal Information Rents in Dynamic Mechanism Design](https://dtc1995.github.io/VDMD_Sep.pdf)
    
 2. [A Model of the Attention Economy](https://dtc1995.github.io/attention.html). Forthcoming, *American Economic Review*\
-[video](https://www.youtube.com/watch?v=Rl1nHrpZEIA)  <span class="award">• FTG Best Job Market Paper Prize (2023)</span>
+[video](https://www.youtube.com/watch?v=Rl1nHrpZEIA) · [code](https://doi.org/10.3886/E249982V1)  <span class="award">• FTG Best Job Market Paper Prize (2023)</span>
    
 
 3.  [Optimal Exchange Design](https://dtc1995.github.io/OEDrevision.pdf)\
